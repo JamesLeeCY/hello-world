@@ -1,2 +1,2 @@
 # hello-world
-Just a lab
+Just a try
